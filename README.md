@@ -16,13 +16,9 @@ Building intelligent ML models and exploring cutting-edge Data Science projects 
 ![](https://github-readme-stats.vercel.app/api?username=Anubhavspeaks01&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anubhavspeaks01&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhavspeaks01&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-### 💬 Dev Quote
-<p align="center">
-  <b><i><span style="background: linear-gradient(90deg, #00C9FF, #92FE9D); -webkit-background-clip: text; color: transparent; font-size: 18px;">
-  "AI won’t replace me. I’m the one building it."
-  </span></i></b><br>
-  — <b><span style="color:#FF007F;">Anubhav Singh</span></b> <i>(Programmer)</i>
-</p>
+### ⚡ Dev Quote
+> 💡 **"AI won’t replace me. I’m the one building it."**  
+> 🔥 — <span style="color:#00FFFF;"><b>Anubhav Singh</b></span> *(Programmer)*
 
 
 
