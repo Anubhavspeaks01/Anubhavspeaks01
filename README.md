@@ -2,6 +2,11 @@
 Building intelligent ML models and exploring cutting-edge Data Science projects that turn data into insights.<br>Open-source ML projects, Kaggle competitions, and AI-driven applications that make real-world impact.<br>Advanced Deep Learning architectures and MLOps best practices.<br>Generative AI, Neural Networks, and end-to-end ML pipelines.<br>Machine Learning, Python, Data Analysis, and how to make your model actually work! 😎<br>I treat debugging as detective work — every bug is just a mystery waiting to be solved 🕵️‍♂️
 
 
+## 📄 Resume & Portfolio:
+[![Resume](https://img.shields.io/badge/Resume-%2300C7B7.svg?style=for-the-badge&logo=readme&logoColor=white)](https://drive.google.com/file/d/1Qs_NpJsQVYTMQZ25eidHsVD4QjBU8NCx/view?usp=drive_link)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20Soon-%23FF9800.svg?style=for-the-badge&logo=firefox&logoColor=white)](#)  
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anubhavspeaks01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anubhavsinghiitm) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:singhanubhav9415@gmail.com) 
 
